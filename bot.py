@@ -11,7 +11,7 @@ attack_history = []  # Store attack logs
 
 TELEGRAM_BOT_TOKEN = '8067591702:AAEZIU1vwTZp3POAEpAWkGaKQNXZfwsj4Zg'  # Replace with your bot token
 ADMIN_USER_ID = 5142603617
-MONGO_URI = "mongodb+srv://rmr31098:ranbal123@cluster0.pcbr2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGO_URI = "mongodb+srv://satyam:ranbal1@satyam.ftaww.mongodb.net/?retryWrites=true&w=majority&appName=satyam"
 DB_NAME = "rmr31098"
 COLLECTION_NAME = "users"
 ATTACK_TIME_LIMIT = 1000  # Maximum attack duration in seconds

@@ -10,7 +10,7 @@ current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
 TELEGRAM_BOT_TOKEN = '8067591702:AAEZIU1vwTZp3POAEpAWkGaKQNXZfwsj4Zg'  # Replace with your bot token
-ADMIN_USER_ID = 5142603617
+ADMIN_USER_ID = 5759284972
 MONGO_URI = "mongodb+srv://satyam:ranbal1@satyam.ftaww.mongodb.net/?retryWrites=true&w=majority&appName=satyam"
 DB_NAME = "rmr31098"
 COLLECTION_NAME = "users"
